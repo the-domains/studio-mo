@@ -1,0 +1,14 @@
+layout_spectrum: 0.01333866
+typography_spectrum: 0.4330328
+color:
+  saturation: 0.6026489
+  lightness: 0.3480657
+  brandStrength: 0.8123533
+  rhythmicContrast: 0.7586614
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Studio MO
